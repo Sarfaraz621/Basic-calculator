@@ -1,4 +1,4 @@
-let screen=document.getElementById('input');
+let screen=document.getElementById('screen');
 const btn=document.querySelectorAll('button');
 let ScreenValue="";
 for(item of btn)
